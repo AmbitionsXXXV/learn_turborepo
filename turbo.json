@@ -15,17 +15,5 @@
       "dependsOn": ["^build"],
       "inputs": ["src/**/*.{ts,tsx}","test/**/*.{ts,tsx}"]
     }
-  },
-  "style": "default",
-  "tailwind": {
-    "config": "",
-    "css": "",
-    "baseColor": "",
-    "cssVariables": false
-  },
-  "rsc": false,
-  "aliases": {
-    "utils": "",
-    "components": ""
   }
 }
